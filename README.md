@@ -16,18 +16,18 @@ For this project, I utilized a tool called "Draw.io" to build a network diagram 
 - New York has three network subnets: HR & Legal, Users and Business Apps.
 - Both sites are connected via a VPN
 
-<h2> Concepts Learned </h2>
-
-<b>DMZ</b>
-<b>VPN</b>
-<b>Border Router</b>
-<b>Firewalls</b>
-<b>Redundancy</b>
-<b>Intranet</b>
-<b>WAP (Wireless Access Point)</b>
-
 <h2>Network Diagram Final Product</h2>
 <img width="463" alt="Screenshot 2023-03-15 at 8 15 52 PM" src="https://user-images.githubusercontent.com/127968338/225476699-bfdc4d8b-4aae-4c6f-86ab-75ce265e5a75.png">
+
+<h2> Concepts Learned </h2>
+
+- <b>DMZ</b>
+- <b>VPN</b>
+- <b>Border Router</b>
+- <b>Firewalls</b>
+- <b>Redundancy</b>
+- <b>Intranet</b>
+- <b>WAP (Wireless Access Point)</b>
 
 
 
